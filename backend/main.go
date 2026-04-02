@@ -1,0 +1,41 @@
+//Сервер
+package main
+
+import (
+	"fmt"
+	"log"    //Добавляет время и дату к каждому сообщению
+	"net/http"    //Здесь вся сеть и функции для сервера
+	"time"
+	"secure-gateway/internal/middleware"
+)
+
+func main() {
+		//Создаем диспетчер запросов(мультиплексор)
+		mux := http.NewServeMux()    //Хранит карту "URL -> Функция"
+		//Регистрация обработчика для пути "/"
+		mux.HandleFunc("/", helloHandler)
+		//Оборачиваем mux в Middleware логирования(все запросы сначала проходят через LoggerMiddleware)
+		handler := middleware.LoggerMiddleware(mux)
+		//Настройка сервера
+		server := &http.Server{
+			Addr: ":8080",    //Слушать все интерфейсы на порту 8080
+			Handler: handler,    //Обработчик mux обернутый в LoggerMiddleware
+			ReadTimeout: 10*time.Second,    //Таймаут на чтение запросов(защита от DoS-атаки типа Slowloris)
+			WriteTimeout: 10*time.Second,    //Таймаут на запись ответа
+		}
+		//Вывод сообщения в консоль
+		fmt.Println("TM_SAG начал работу на порту 8080...")
+		fmt.Println("Логи записаны в файл logs/access.log")
+		//Запуск сервера. ListenAndServer блокирует выполнение программы, пока сервер работает
+		//Если сервер упадет, log.Fatal запишет ошибку и остановит программу
+		if err := server.ListenAndServe(); err != nil {
+			log.Fatal("Ошибка: ", err)
+		}
+}
+//Функция обработчик, принимает куда писать ответ(ResponseWriter) и что пришло (Request)
+func helloHandler(w http.ResponseWriter, r*http.Request){
+	//Устанавливаем заголовок, что возвращаем текст
+	w.Header().Set("Content-Type", "text/plain; charset=utf-8")    //Говорим браузеру, что это простой текст, а не скрипт
+	//Тело ответа
+	fmt.Fprintf(w, "Защищенный шлюз. Время: %s", time.Now().String())
+}
