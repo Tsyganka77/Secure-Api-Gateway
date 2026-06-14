@@ -8,3 +8,258 @@
 {"time":"2026-04-02T18:26:15+03:00","ip":"127.0.0.1:34364","method":"GET","path":"/","duration":"31.922µs"}
 {"time":"2026-04-02T18:26:16+03:00","ip":"127.0.0.1:34364","method":"GET","path":"/","duration":"29.477µs"}
 {"time":"2026-04-02T18:29:27+03:00","ip":"127.0.0.1:53206","method":"GET","path":"/","duration":"64.404µs"}
+{"time":"2026-04-03T17:48:57+03:00","ip":"127.0.0.1:60950","method":"GET","path":"/","duration":"170.278µs"}
+{"time":"2026-04-03T17:49:19+03:00","ip":"127.0.0.1:51490","method":"GET","path":"/api/","duration":"5.957902ms"}
+{"time":"2026-04-03T17:49:28+03:00","ip":"127.0.0.1:42854","method":"GET","path":"/api","duration":"379.737µs"}
+{"time":"2026-04-03T17:49:28+03:00","ip":"127.0.0.1:42854","method":"GET","path":"/api/","duration":"3.844517ms"}
+{"time":"2026-04-03T17:49:36+03:00","ip":"127.0.0.1:42868","method":"GET","path":"/","duration":"62.37µs"}
+{"time":"2026-04-03T17:53:51+03:00","ip":"127.0.0.1:43348","method":"GET","path":"/index.html","duration":"77.386µs"}
+{"time":"2026-04-03T18:08:21+03:00","ip":"127.0.0.1:39420","method":"GET","path":"/","duration":"6.633016ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39420","method":"GET","path":"/style.css","duration":"9.732698ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39420","method":"GET","path":"/design/ммм сайт/лого сарфти_белое.svg","duration":"7.203002ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/лого мифи_белое.svg","duration":"12.347603ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39420","method":"GET","path":"/design/ммм сайт/сарфти_акцентная надпись_белая.svg","duration":"13.382949ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/кнопка_поступить в сарфти.svg","duration":"10.058095ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/Rectangle 45.svg","duration":"11.313584ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/стрелка на тексте.svg","duration":"11.411922ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/овалы на фоне руководства.svg","duration":"12.918077ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39420","method":"GET","path":"/design/ммм сайт/leadership/photo1.png","duration":"17.349796ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/leadership/photo2.png","duration":"29.172463ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/leadership/photo4.png","duration":"15.253751ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/маленький атом без электронов.svg","duration":"10.713218ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/leadership/photo5.png","duration":"28.449034ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/code.js","duration":"20.073515ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/большой атом с оранжевыми электронами_белый.svg","duration":"27.735452ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav5.png","duration":"23.998598ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav3.png","duration":"38.83476ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav7.png","duration":"21.178984ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav6.png","duration":"11.037078ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav8.png","duration":"23.405844ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav1.png","duration":"28.76605ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav4.png","duration":"25.012362ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav2.png","duration":"34.228155ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/егэ_матан_рус_физ.svg","duration":"23.61118ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/линия под узнать больше.svg","duration":"13.710929ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/стрелка вправо.svg","duration":"10.467372ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/стрелка влево.svg","duration":"15.218691ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Cтажировка.svg","duration":"7.681982ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/mayakovskogo_2.svg","duration":"6.309924ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/leadership/photo3.png","duration":"224.511238ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 2 корпус.svg","duration":"17.014412ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка общежитие2.svg","duration":"15.711569ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava20.png","duration":"13.516488ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/logo_vk/blue_logo.svg","duration":"17.127209ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava14.png","duration":"26.889101ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/1-2 курс.svg","duration":"25.277345ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/3-4 курс.svg","duration":"17.449182ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Карьера.svg","duration":"12.989945ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Выпуск.svg","duration":"18.167304ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/паттерн сарфти.png","duration":"16.724077ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/карта.svg","duration":"26.429467ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/oranzhevy_kruzhok.svg","duration":"14.810182ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/chkalova_57.svg","duration":"9.107259ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка сузить.svg","duration":"6.730447ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava13.png","duration":"9.602721ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 3 корпус.svg","duration":"20.183518ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 1 корпус.svg","duration":"29.299996ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 4 корпус.svg","duration":"19.29554ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 5 корпус.svg","duration":"12.068093ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка общежитие1.svg","duration":"15.465584ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка вверх.svg","duration":"8.442706ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava17.png","duration":"13.527314ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava21.png","duration":"16.200328ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка расширить.svg","duration":"17.449462ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/logo_vk/white_logo.svg","duration":"14.873878ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava15.png","duration":"26.034228ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava18.png","duration":"21.545029ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava11.png","duration":"8.816783ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava16.png","duration":"8.843393ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava7.png","duration":"8.759722ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava19.png","duration":"16.075798ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava22.png","duration":"22.059628ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava12.png","duration":"26.571317ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava1.png","duration":"21.553759ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava6.png","duration":"17.308659ms"}
+{"time":"2026-04-03T18:08:22+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava9.png","duration":"15.151642ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava3.png","duration":"13.949582ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava8.png","duration":"12.707991ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava5.png","duration":"16.342876ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava2.png","duration":"10.062216ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava10.png","duration":"12.920801ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava4.png","duration":"17.893311ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava23.png","duration":"13.094918ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39448","method":"GET","path":"/design/ммм сайт/video_poster.png","duration":"12.143034ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_video/svg_files_for_video/плей.svg","duration":"16.435487ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/адрес.svg","duration":"10.257775ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/кнопка наверх.svg","duration":"27.059726ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/почта.svg","duration":"34.463804ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/номер телефона.svg","duration":"33.665993ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/вк.svg","duration":"10.500827ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/тг.svg","duration":"14.989607ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/макс.svg","duration":"9.0979ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/надпись сарфти.svg","duration":"9.038882ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/Coolvetica/coolvetica rg.ttf","duration":"22.525199ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39436","method":"GET","path":"/design/GarciaMarquez/GarciaMarquez.otf","duration":"28.328206ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39444","method":"GET","path":"/design/ммм сайт/video_about_sarfti.mp4","duration":"32.107107ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39456","method":"GET","path":"/design/ммм сайт/курсор.svg","duration":"39.364376ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39434","method":"GET","path":"/design/ммм сайт/атом_на фоне первого экрана.svg","duration":"29.633284ms"}
+{"time":"2026-04-03T18:08:23+03:00","ip":"127.0.0.1:39420","method":"GET","path":"/design/ммм сайт/рука.svg","duration":"38.753184ms"}
+{"time":"2026-04-03T18:08:44+03:00","ip":"127.0.0.1:35070","method":"GET","path":"/api/status","duration":"18.998µs"}
+{"time":"2026-04-03T18:08:44+03:00","ip":"127.0.0.1:35072","method":"GET","path":"/favicon.ico","duration":"6.87984ms"}
+{"time":"2026-04-03T18:09:05+03:00","ip":"127.0.0.1:51208","method":"GET","path":"/api/logs","duration":"16.204µs"}
+{"time":"2026-04-03T18:09:05+03:00","ip":"127.0.0.1:51216","method":"GET","path":"/favicon.ico","duration":"7.072186ms"}
+{"time":"2026-04-04T15:57:05+03:00","ip":"127.0.0.1:45724","method":"GET","path":"/","duration":"8.895337ms"}
+{"time":"2026-04-04T16:03:50+03:00","ip":"127.0.0.1:42594","method":"GET","path":"/","duration":"31.989122ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42594","method":"GET","path":"/style.css","duration":"8.505531ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42604","method":"GET","path":"/code.js","duration":"8.938048ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42604","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav3.png","duration":"17.007499ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42594","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav5.png","duration":"26.364582ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42636","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav2.png","duration":"29.984324ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42620","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav6.png","duration":"31.711317ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42616","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav7.png","duration":"32.690347ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42634","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav8.png","duration":"33.112176ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42604","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav1.png","duration":"31.359548ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42594","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav4.png","duration":"20.50612ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42620","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/3-4 курс.svg","duration":"25.883659ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42636","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/1-2 курс.svg","duration":"32.394109ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42616","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Cтажировка.svg","duration":"34.396664ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42604","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Карьера.svg","duration":"22.70761ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42634","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Выпуск.svg","duration":"26.519022ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42594","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/mayakovskogo_2.svg","duration":"28.737067ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42636","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/oranzhevy_kruzhok.svg","duration":"29.864879ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42620","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/chkalova_57.svg","duration":"28.203127ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42604","method":"GET","path":"/design/ммм сайт/video_poster.png","duration":"24.566901ms"}
+{"time":"2026-04-04T16:03:51+03:00","ip":"127.0.0.1:42616","method":"GET","path":"/design/ммм сайт/video_about_sarfti.mp4","duration":"5.074945ms"}
+{"time":"2026-04-06T21:08:05+03:00","ip":"[::1]:54880","method":"POST","path":"/api/auth/login","duration":"277.066µs"}
+{"time":"2026-04-06T21:09:32+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/","duration":"184.278816ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/style.css","duration":"21.481109ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/code.js","duration":"20.067716ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/leadership/photo2.png","duration":"35.966629ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/leadership/photo4.png","duration":"35.233916ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/овалы на фоне руководства.svg","duration":"38.997704ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/leadership/photo1.png","duration":"47.620822ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/leadership/photo3.png","duration":"60.270754ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/большой атом с оранжевыми электронами_белый.svg","duration":"37.988976ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/leadership/photo5.png","duration":"63.897022ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav3.png","duration":"37.026901ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/маленький атом без электронов.svg","duration":"50.932453ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav5.png","duration":"39.089965ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav6.png","duration":"38.817162ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav7.png","duration":"72.150117ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav1.png","duration":"47.875117ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav8.png","duration":"68.246994ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav2.png","duration":"56.29744ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/naprav4.png","duration":"56.426158ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/егэ_матан_рус_физ.svg","duration":"53.239685ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/линия под узнать больше.svg","duration":"30.6425ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/стрелка влево.svg","duration":"38.379323ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_directions/svg_files_for_directions/стрелка вправо.svg","duration":"26.603325ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/1-2 курс.svg","duration":"44.309331ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/3-4 курс.svg","duration":"52.877274ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Выпуск.svg","duration":"65.562546ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Cтажировка.svg","duration":"69.953236ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_timeline/Карьера.svg","duration":"56.407301ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/карта.svg","duration":"50.153854ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/паттерн сарфти.png","duration":"83.41096ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/oranzhevy_kruzhok.svg","duration":"38.931913ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 1 корпус.svg","duration":"29.836593ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/mayakovskogo_2.svg","duration":"57.257419ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/chkalova_57.svg","duration":"40.62223ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 2 корпус.svg","duration":"25.782821ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 3 корпус.svg","duration":"12.99083ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 4 корпус.svg","duration":"31.7965ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка 5 корпус.svg","duration":"29.264306ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка вверх.svg","duration":"23.166607ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка общежитие1.svg","duration":"36.041639ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка расширить.svg","duration":"32.573563ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка общежитие2.svg","duration":"40.313458ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava15.png","duration":"40.162459ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_map/svg_files_for_map/кнопка сузить.svg","duration":"45.718465ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/logo_vk/blue_logo.svg","duration":"46.116076ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/logo_vk/white_logo.svg","duration":"41.908301ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava18.png","duration":"40.296277ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava11.png","duration":"40.842652ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava16.png","duration":"25.88884ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava14.png","duration":"42.095478ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava13.png","duration":"25.467903ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava7.png","duration":"30.992129ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava12.png","duration":"30.078735ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava1.png","duration":"34.435552ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava20.png","duration":"31.507494ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava6.png","duration":"43.061115ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava5.png","duration":"31.544999ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava9.png","duration":"39.104702ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava19.png","duration":"28.663246ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava10.png","duration":"39.462293ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava8.png","duration":"27.627837ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava2.png","duration":"24.526291ms"}
+{"time":"2026-04-06T21:09:33+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava21.png","duration":"27.839807ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava17.png","duration":"20.30385ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava23.png","duration":"38.677894ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava4.png","duration":"44.526047ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava22.png","duration":"36.293556ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_groups_vk/svg_files_for_groups_vk/avatarki/ava3.png","duration":"47.552234ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_video/svg_files_for_video/плей.svg","duration":"36.99931ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/почта.svg","duration":"34.524597ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32842","method":"GET","path":"/design/ммм сайт/video_poster.png","duration":"55.528334ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/номер телефона.svg","duration":"48.147846ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/адрес.svg","duration":"56.149649ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/тг.svg","duration":"52.700709ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/вк.svg","duration":"53.998235ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32852","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/надпись сарфти.svg","duration":"18.414343ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32814","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/макс.svg","duration":"33.227561ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32846","method":"GET","path":"/design/ммм сайт/screens/blok_futer/svg_files_for_futer/кнопка наверх.svg","duration":"45.080873ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32824","method":"GET","path":"/design/ммм сайт/video_about_sarfti.mp4","duration":"12.571638ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32828","method":"GET","path":"/design/ммм сайт/курсор.svg","duration":"5.537497ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32820","method":"GET","path":"/design/ммм сайт/рука.svg","duration":"11.454793ms"}
+{"time":"2026-04-06T21:09:34+03:00","ip":"127.0.0.1:32852","method":"GET","path":"/design/GarciaMarquez/GarciaMarquez.otf","duration":"10.784309ms"}
+{"time":"2026-04-06T21:09:49+03:00","ip":"127.0.0.1:48820","method":"GET","path":"/api/logs","duration":"24.724µs"}
+{"time":"2026-04-06T21:10:08+03:00","ip":"[::1]:41394","method":"GET","path":"/api/logs","duration":"18.019µs"}
+{"time":"2026-04-06T21:11:11+03:00","ip":"[::1]:34204","method":"GET","path":"/api/logs","duration":"301.856µs"}
+{"time":"2026-04-06T21:11:34+03:00","ip":"127.0.0.1:47988","method":"GET","path":"/api/auth/login","duration":"56.642µs"}
+{"time":"2026-04-06T21:11:48+03:00","ip":"[::1]:39114","method":"POST","path":"/api/auth/login","duration":"219.861µs"}
+{"time":"2026-04-06T21:12:00+03:00","ip":"[::1]:39260","method":"GET","path":"/api/logs","duration":"399.563µs"}
+{"time":"2026-04-06T21:12:25+03:00","ip":"[::1]:54412","method":"GET","path":"/api/admin/dashboard","duration":"118.242µs"}
+{"time":"2026-06-13T20:44:02+03:00","ip":"127.0.0.1:41226","method":"GET","path":"/","duration":"101.969µs"}
+{"time":"2026-06-13T20:44:08+03:00","ip":"127.0.0.1:41226","method":"GET","path":"/","duration":"85.487µs"}
+{"time":"2026-06-13T20:48:13+03:00","ip":"127.0.0.1:50300","method":"GET","path":"/","duration":"89.538µs"}
+{"time":"2026-06-13T20:52:48+03:00","ip":"127.0.0.1:45938","method":"GET","path":"/","duration":"95.405µs"}
+{"time":"2026-06-13T20:52:51+03:00","ip":"127.0.0.1:45938","method":"GET","path":"/","duration":"567.471µs"}
+{"time":"2026-06-13T20:53:40+03:00","ip":"127.0.0.1:44776","method":"GET","path":"/","duration":"116.148µs"}
+{"time":"2026-06-13T20:53:42+03:00","ip":"127.0.0.1:44776","method":"GET","path":"/","duration":"144.993µs"}
+{"time":"2026-06-13T20:53:42+03:00","ip":"127.0.0.1:44776","method":"GET","path":"/","duration":"592.196µs"}
+{"time":"2026-06-13T20:55:13+03:00","ip":"127.0.0.1:40692","method":"GET","path":"/","duration":"26.234157ms"}
+{"time":"2026-06-13T20:55:13+03:00","ip":"127.0.0.1:40692","method":"GET","path":"/style.css","duration":"548.824µs"}
+{"time":"2026-06-13T20:55:13+03:00","ip":"127.0.0.1:40692","method":"GET","path":"/api/config","duration":"138.917µs"}
+{"time":"2026-06-13T20:58:44+03:00","ip":"127.0.0.1:47074","method":"GET","path":"/","duration":"13.41609ms"}
+{"time":"2026-06-13T20:58:44+03:00","ip":"127.0.0.1:47074","method":"GET","path":"/static/style.css","duration":"384.624µs"}
+{"time":"2026-06-13T20:58:44+03:00","ip":"127.0.0.1:47074","method":"GET","path":"/api/config","duration":"62.44µs"}
+{"time":"2026-06-13T20:58:48+03:00","ip":"127.0.0.1:47074","method":"POST","path":"/api/config","duration":"90.586µs"}
+{"time":"2026-06-13T20:58:54+03:00","ip":"127.0.0.1:47074","method":"GET","path":"/","duration":"213.719µs"}
+{"time":"2026-06-13T20:58:54+03:00","ip":"127.0.0.1:47074","method":"GET","path":"/api/config","duration":"30.521µs"}
+{"time":"2026-06-13T20:58:55+03:00","ip":"127.0.0.1:47074","method":"GET","path":"/","duration":"306.539µs"}
+{"time":"2026-06-13T20:58:55+03:00","ip":"127.0.0.1:47074","method":"GET","path":"/api/config","duration":"67.887µs"}
+{"time":"2026-06-13T20:59:00+03:00","ip":"127.0.0.1:47074","method":"POST","path":"/api/config","duration":"62.998µs"}
+{"time":"2026-06-13T20:59:12+03:00","ip":"127.0.0.1:51542","method":"POST","path":"/api/config","duration":"1.368569ms"}
+{"time":"2026-06-13T21:00:23+03:00","ip":"127.0.0.1:51368","method":"POST","path":"/api/config","duration":"162.804µs"}
+{"time":"2026-06-13T21:00:37+03:00","ip":"127.0.0.1:36412","method":"POST","path":"/api/config","duration":"141.502µs"}
+{"time":"2026-06-13T21:06:22+03:00","ip":"127.0.0.1:42818","method":"POST","path":"/api/config","duration":"1.488021ms"}
+{"time":"2026-06-13T21:07:56+03:00","ip":"127.0.0.1:37464","method":"POST","path":"/api/config","duration":"1.777171ms"}
+{"time":"2026-06-13T21:09:09+03:00","ip":"127.0.0.1:33064","method":"POST","path":"/api/config","duration":"82.346µs"}
+{"time":"2026-06-14T11:52:46+03:00","ip":"127.0.0.1:56710","method":"GET","path":"/","duration":"837.828µs"}
+{"time":"2026-06-14T11:52:47+03:00","ip":"127.0.0.1:56710","method":"GET","path":"/static/style.css","duration":"160.315µs"}
+{"time":"2026-06-14T11:52:47+03:00","ip":"127.0.0.1:56710","method":"GET","path":"/api/config","duration":"5.376792ms"}
+{"time":"2026-06-14T11:52:50+03:00","ip":"127.0.0.1:56710","method":"POST","path":"/api/config","duration":"2.526257ms"}
+{"time":"2026-06-14T12:01:45+03:00","ip":"127.0.0.1:47522","method":"GET","path":"/","duration":"21.309183ms"}
+{"time":"2026-06-14T12:01:45+03:00","ip":"127.0.0.1:47522","method":"GET","path":"/api/config","duration":"116.885µs"}
+{"time":"2026-06-14T12:01:48+03:00","ip":"127.0.0.1:47522","method":"POST","path":"/api/config","duration":"1.841561ms"}
+{"time":"2026-06-14T12:02:41+03:00","ip":"127.0.0.1:42352","method":"GET","path":"/","duration":"256.288µs"}
+{"time":"2026-06-14T12:02:41+03:00","ip":"127.0.0.1:42352","method":"GET","path":"/api/config","duration":"32.91µs"}
+{"time":"2026-06-14T12:02:42+03:00","ip":"127.0.0.1:42352","method":"POST","path":"/api/config","duration":"16.968904ms"}
+{"time":"2026-06-14T12:02:53+03:00","ip":"127.0.0.1:34964","method":"POST","path":"/api/config","duration":"37.00408ms"}
+{"time":"2026-06-14T12:03:03+03:00","ip":"127.0.0.1:34964","method":"POST","path":"/api/config","duration":"346.503099ms"}
+{"time":"2026-06-14T12:04:29+03:00","ip":"127.0.0.1:57604","method":"GET","path":"/api/logs","duration":"31.432µs"}
+{"time":"2026-06-14T12:07:04+03:00","ip":"[::1]:56422","method":"GET","path":"/api/logs","duration":"300.98µs"}
+{"time":"2026-06-14T12:07:40+03:00","ip":"127.0.0.1:49544","method":"GET","path":"/","duration":"168.723µs"}
+{"time":"2026-06-14T12:07:40+03:00","ip":"127.0.0.1:49544","method":"GET","path":"/api/config","duration":"41.343µs"}
+{"time":"2026-06-14T12:07:43+03:00","ip":"127.0.0.1:49544","method":"POST","path":"/api/config","duration":"273.459111ms"}

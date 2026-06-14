@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure API Gateway — Настройка</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="logo">🔐</div>
+            <h1>Secure API Gateway</h1>
+            <p class="subtitle">Панель управления прокси</p>
+        </header>
+
+        <main class="main">
+            <div class="form-group">
+                <label for="backendUrl">URL сайта для подключения:</label>
+                <input 
+                    type="url" 
+                    id="backendUrl" 
+                    class="input-field"
+                    placeholder="http://localhost:8081"
+                    value="http://localhost:8081"
+                >
+                <small class="hint">Укажите полный адрес, включая протокол (http://)</small>
+            </div>
+
+            <button onclick="connect()" class="btn-connect">
+                <span class="btn-icon">🔗</span>
+                <span class="btn-text">Подключить</span>
+            </button>
+
+            <div id="status" class="status disconnected">
+                <span class="status-icon">❌</span>
+                <span class="status-text">Не подключено</span>
+            </div>
+
+            <div class="info-box">
+                <h3>ℹ️ Как это работает:</h3>
+                <ol>
+                    <li>Введите URL вашего сайта</li>
+                    <li>Нажмите «Подключить»</li>
+                    <li>Все запросы на <code>/</code> будут проксироваться</li>
+                    <li>API endpoints (<code>/api/*</code>) обрабатываются шлюзом</li>
+                </ol>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>Secure API Gateway v0.2.0</p> 
+        </footer>
+    </div>
+
+    <script>
+        // При загрузке проверяем текущий статус
+        fetch('/api/config')
+            .then(r => r.json())
+            .then(data => {
+                if (data.connected) {
+                    document.getElementById('backendUrl').value = data.url;
+                    updateStatus(true, data.url);
+                }
+            })
+            .catch(err => console.error('Ошибка загрузки конфига:', err));
+
+        function connect() {
+            const url = document.getElementById('backendUrl').value;
+            
+            // Валидация
+            if (!url.startsWith('http://') && !url.startsWith('https://')) {
+                alert('⚠️ URL должен начинаться с http:// или https://');
+                return;
+            }
+
+            fetch('/api/config', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ url: url })
+            })
+            .then(r => r.json())
+            .then(data => {
+                if (data.success) {
+                    updateStatus(true, url);
+                    showNotification('✅ Сайт подключен!', 'success');
+                } else {
+                    showNotification('❌ Ошибка: ' + data.error, 'error');
+		    updateStatus(false, "");
+                }
+            })
+            .catch(err => showNotification('Ошибка: ' + err, 'error'));
+        }
+
+        function updateStatus(connected, url) {
+            const status = document.getElementById('status');
+            if (connected) {
+                status.className = 'status connected';
+                status.innerHTML = '<span class="status-icon">✅</span><span class="status-text">Подключено: ' + url + '</span>';
+            } else {
+                status.className = 'status disconnected';
+                status.innerHTML = '<span class="status-icon">❌</span><span class="status-text">Не подключено</span>';
+            }
+        }
+
+        function showNotification(message, type) {
+            // Создаём уведомление
+            const notification = document.createElement('div');
+            notification.className = 'notification ' + type;
+            notification.textContent = message;
+            document.body.appendChild(notification);
+
+            // Анимация появления
+            setTimeout(() => notification.classList.add('show'), 10);
+
+            // Удаление через 3 секунды
+            setTimeout(() => {
+                notification.classList.remove('show');
+                setTimeout(() => notification.remove(), 300);
+            }, 3000);
+        }
+    </script>
+</body>
+</html>
